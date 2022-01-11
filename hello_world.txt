@@ -1,0 +1,1 @@
+This is me trying to figure out how to use git by making changes to these text files and then following the modify-stage-commit steps
